@@ -7,3 +7,5 @@ Please kindly ensure that the folllowing packages have been installed.
     matplotlib
     pandas
     sklearn
+     
+Run app.py to preview
